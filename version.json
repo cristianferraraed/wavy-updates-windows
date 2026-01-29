@@ -1,10 +1,10 @@
 {
-  "version": "7.7.5",
+  "version": "7.7.6",
   "build": "20260129",
-  "downloadUrl": "https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.5/WavyApp.exe",
+  "downloadUrl": "https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.6/WavyApp-7.7.6.exe",
   "releaseNotes": {
-    "en": "Bug fixes and improvements",
-    "it": "Correzioni bug e miglioramenti"
+    "en": "Test OTA update",
+    "it": "Test aggiornamento OTA"
   },
   "mandatory": false,
   "minVersion": "7.0.0"
