@@ -17,7 +17,7 @@
       ]]></description>
       <pubDate>Tue, 28 Jan 2026 10:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.5/WavyApp-7.7.5.zip"
+        url="https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.5/WavyApp.exe"
         sparkle:version="7.7.5"
         type="application/octet-stream"
         length="4194304"
@@ -25,4 +25,3 @@
     </item>
   </channel>
 </rss>
-
