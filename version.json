@@ -1,10 +1,10 @@
 {
   "version": "7.7.5",
-  "build": "20260128",
-  "downloadUrl": "https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.5/WavyApp-7.7.5.exe",
+  "build": "20260129",
+  "downloadUrl": "https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.5/WavyApp.exe",
   "releaseNotes": {
-    "en": "• Fixed meeting alarm crashes\n• Added 8 languages support\n• Improved UI design\n• Custom app icon\n• GitHub-based OTA updates",
-    "it": "• Risolti crash sveglia meeting\n• Aggiunto supporto 8 lingue\n• Migliorato design UI\n• Icona app personalizzata\n• Aggiornamenti OTA via GitHub"
+    "en": "Bug fixes and improvements",
+    "it": "Correzioni bug e miglioramenti"
   },
   "mandatory": false,
   "minVersion": "7.0.0"
