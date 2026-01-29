@@ -1,5 +1,5 @@
 {
-  "version": "7.7.6",
+  "version": "7.7.5",
   "build": "20260129",
   "downloadUrl": "https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.5/WavyApp.exe",
   "releaseNotes": {
@@ -9,3 +9,4 @@
   "mandatory": false,
   "minVersion": "7.0.0"
 }
+
