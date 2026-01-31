@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Wavy Changelog</title>
+    <title>Wavy Windows Updates</title>
+    <link>https://github.com/cristianferraraed/wavy-updates-windows</link>
+    <description>Wavy for Windows - Updates Feed</description>
     <language>en</language>
     <item>
-      <title>Version 7.7.5</title>
+      <title>Version 7.7.4</title>
       <description><![CDATA[
         <h2>What's New</h2>
         <ul>
-          <li>Fixed meeting alarm crashes</li>
-          <li>Added 8 languages support</li>
-          <li>Improved UI design</li>
-          <li>Custom app icon</li>
-          <li>GitHub-based OTA updates</li>
+          <li>Bug fixes and improvements</li>
+          <li>OTA update system</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 28 Jan 2026 10:00:00 +0000</pubDate>
-      <enclosure
-        url="https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.5/WavyApp-7.7.5.exe"
-        sparkle:version="7.7.5"
-        type="application/octet-stream"
-        length="701914"
-      />
+      <pubDate>Fri, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.4/WavyApp.exe"
+        sparkle:version="7.7.4"
+        length="3000000"
+        type="application/octet-stream" />
     </item>
   </channel>
 </rss>
-
