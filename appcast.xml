@@ -3,14 +3,12 @@
   <channel>
     <title>Wavy Windows Updates</title>
     <item>
-      <title>Version 7.7.5</title>
+      <title>Version 2.0.0</title>
       <enclosure 
-        url="https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v7.7.5/WavyApp.exe"
-        sparkle:version="1.9"
+        url="https://github.com/cristianferraraed/wavy-updates-windows/releases/download/v2.0.0/WavyApp.exe"
+        sparkle:version="2.0.0"
         length="3000000"
         type="application/octet-stream" />
     </item>
   </channel>
 </rss>
-
-
